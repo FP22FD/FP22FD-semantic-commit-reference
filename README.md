@@ -45,11 +45,10 @@ To make your commit process smoother, you can leverage AI tools like GitHub Copi
 4. Edit suggestions and add semantic keywords before the title suggestion.
 5. Always review the AI-generated commit messages for accuracy and clarity before committing.
 
-![AI Copilot Image](https://github.com/FP22FD/semantic-commit-reference/blob/main/IA-commit.jpeg)
+![IA-commit](https://github.com/user-attachments/assets/45ab87be-296e-402f-a4a1-cd1f99e3645a)
 
 ## ReferencesFD
 
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
-
